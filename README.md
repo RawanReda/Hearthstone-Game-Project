@@ -24,27 +24,27 @@ remaining hero is thus the winner of the game.
 **Card Types**
 There are two types of cards, Minion cards and Spell cards. Any card in the game has certain
 attributes/features. These features are:
-● Card name
-● Mana cost: The number of mana crystals the player must have to be able to play this card.
-● Rarity: An indication of how precious this card is. 
+- Card name
+- Mana cost: The number of mana crystals the player must have to be able to play this card.
+- Rarity: An indication of how precious this card is. 
 
 **Minions**
 Minions are a type of cards that represent creatures that the hero summons either to attack the
 opponent’s minions or the opponent hero.
 Besides the common attributes of all cards, minions have the following extra attributes:
-● Attack : a number representing how much damage will this minion inflict to the attacked target
+- Attack : a number representing how much damage will this minion inflict to the attacked target
 (either another minion or a hero) or to the attacker.
-● Health : a number represents how much damage the minion can receive before he dies and gets
+- Health : a number represents how much damage the minion can receive before he dies and gets
 removed from the field. By default, the player has to wait for at least one extra turn to be able to
 attack with a minion.
 
 Some types of minions can have some extra feature/s that affect other game elements
-● Charge : minions with charge do not need to wait a turn to be able to attack. They can attack in
+- Charge : minions with charge do not need to wait a turn to be able to attack. They can attack in
 the same turn they are played.
-● Divine Shield : minions with a divine shield are not affected by the first hit/damage they receive,
+- Divine Shield : minions with a divine shield are not affected by the first hit/damage they receive,
 regardless of the attacker. After the first attack they receive, the shield will break and they will
 normally receive damage.
-● Taunt : if a hero has a taunt minion(s), he and his non-taunt minions cannot be attacked by the 
+- Taunt : if a hero has a taunt minion(s), he and his non-taunt minions cannot be attacked by the 
 opponent, as long as he has taunt minion(s) on his field. 
 
 **Spells**
