@@ -8,14 +8,14 @@ This involved implementation using Java OOP (Object-Oriented Programming) and GU
 ![hearthstoneGame](https://user-images.githubusercontent.com/51987270/112107603-d5f7e080-8bb7-11eb-957d-0536b36f2f7e.JPG)
 
 **General Game Rules List**
--The player who goes first is determined randomly and draws three starting cards.
--The player who goes second gets an extra starting card.
--Each player draws a card every turn.
--Each player is granted one additional Mana Crystal, every turn.
--Each players Mana Crystals are replenished with Mana every turn.
--The maximum Mana Pool a player can have is ten.
--The maximum amount of cards a player can have is ten.
--You can have a maximum of seven minions on the board at once.
+- The player who goes first is determined randomly and draws three starting cards.
+- The player who goes second gets an extra starting card.
+- Each player draws a card every turn.
+- Each player is granted one additional Mana Crystal, every turn.
+- Each players Mana Crystals are replenished with Mana every turn.
+- The maximum Mana Pool a player can have is ten.
+- The maximum amount of cards a player can have is ten.
+- You can have a maximum of seven minions on the board at once.
 
 **Game End**
 The game ends when one of the two heroes is defeated by making its health points reach 0. The
