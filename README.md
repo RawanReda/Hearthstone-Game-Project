@@ -28,8 +28,7 @@ attributes/features. These features are:
 - Mana cost: The number of mana crystals the player must have to be able to play this card.
 - Rarity: An indication of how precious this card is. 
 
-**Minions**
-Minions are a type of cards that represent creatures that the hero summons either to attack the
+**Minions** are a type of cards that represent creatures that the hero summons either to attack the
 opponent’s minions or the opponent hero.
 Besides the common attributes of all cards, minions have the following extra attributes:
 - Attack : a number representing how much damage will this minion inflict to the attacked target
@@ -47,8 +46,7 @@ normally receive damage.
 - Taunt : if a hero has a taunt minion(s), he and his non-taunt minions cannot be attacked by the 
 opponent, as long as he has taunt minion(s) on his field. 
 
-**Spells**
-Spells are magical abilities that the hero can use to affect minions or heroes. Unlike minions, spells are
+**Spells** are magical abilities that the hero can use to affect minions or heroes. Unlike minions, spells are
 hero-specific. There are no spells that can be used by all heroes.
 There are five different types of spells depending on what the spell can affect. These types are:
 1. Minion Target spells that affect minions.
