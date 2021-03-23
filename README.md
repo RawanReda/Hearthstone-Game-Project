@@ -5,4 +5,4 @@ Players use their limited mana crystals to play abilities or summon minions to a
 This involved implementation using Java OOP (Object-Oriented Programming) and GUI swing features.
 
 
-You can run the game thruogh the 'Controller.java' file.
+You can run the game through the 'Controller.java' file.
